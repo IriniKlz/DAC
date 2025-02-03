@@ -1,6 +1,6 @@
 # How to Create and Manage a Project Repository in Git
 
-### IS53047B/A: Final Project in Digital Arts Computing (2023-24), BSc Goldsmiths
+### IS53047B/A: Final Project in Digital Arts Computing (2024-25), BSc Goldsmiths
 
 Here are some instructions for creating and managing a project repository in GitHub. Before proceeding to the next steps, a Github account is pre-required. If you do not have one, you need to set up an account by following [these instructions](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github).
 
